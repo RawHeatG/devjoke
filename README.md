@@ -247,3 +247,7 @@ He read the shampoo bottle instructions: Lather. Rinse. Repeat.
 #### There are 10 kinds of people in this world, those who understand binary, and those who don’t.
 
 ***
+
+#### An SQL query went into a bar. He walked up to two tables and said, “Hi, can I join you?
+
+***
